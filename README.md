@@ -1,149 +1,108 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Uttkarsh Kumar! 👋</h1>
-  
-  <h3>🚀 Backend-Focused Full Stack Developer</h3>
-  
+  <h3>🚀 Backend Engineer & System Architecture Enthusiast</h3>
+
   <p>
-    I am a B.Tech Computer Science student (Class of 2026) passionate about <strong>System Architecture</strong>, <strong>Backend Engineering</strong>, and scalable solutions.
+    I am a B.Tech Computer Science student (Class of 2026) building <strong>scalable, high-performance systems</strong>.<br> 
+    My focus lies in <strong>Real-Time Communication</strong>, <strong>API Design</strong>, and <strong>Distributed Architectures</strong>.
   </p>
-  
-  <p>
-    🌱 Currently expanding my arsenal with <strong>Java & Spring Boot</strong> for enterprise-grade microservices.
-  </p>
-  
+
   <div align="center">
     <a href="https://linkedin.com/in/uttkarsh-kumar-8978a2223">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:uttkarshkumar687@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </div>
 </div>
 
+<br/>
+
+### ⚡ The Tech Stack
+
+**Backend & Database**
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
+
+**Protocols & Architecture**
+<div align="center">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSE-Server_Sent_Events-FF9900?style=for-the-badge" />
+</div>
+
+**DevOps & Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+**Frontend**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div>
+
 ---
 
-### 🛠️ The Arsenal
+### 🧠 Knowledge Base & Concepts
 
-**Core Stack (MERN)**
-<div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+I don't just write code; I design systems. Here is what I am currently implementing:
 
-<br/>
-
-**Tools & Infrastructure**
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
-</div>
-
-<br/>
-
-**Currently Mastering**
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring Boot" />
-</div>
+* **Scalable API Design:** Rate limiting, Caching strategies (Redis), and Horizontal Scaling.
+* **Real-Time Systems:** Bi-directional communication using **WebSockets** and **WebRTC** for P2P streaming.
+* **Event-Driven Architecture:** Utilizing **Server-Sent Events (SSE)** for uni-directional updates.
+* **System Security:** RBAC (Role-Based Access Control) and JWT management.
 
 ---
 
 ### 🏆 Featured Project
 
-<h3 align="center">🛡️ ApnaManager (Guest Guard)</h3>
-<p align="center"><strong>Centralized Security & Intelligence Platform</strong></p>
-<p align="center">
-  A secure ecosystem connecting <strong>Hotels, Police, and Admins</strong> to digitize guest records and automate law enforcement intelligence.
-</p>
+<h3 align="center">🛡️ ApnaManager </h3>
+<p align="center"><strong>Centralized Security & Intelligence Platform for Hotels & Police</strong></p>
+
+A secure ecosystem digitizing guest records with automated law enforcement intelligence triggers.
 
 <div align="center">
-  <table>
-    <tr>
-      <th>The Tech</th>
-      <td>MERN Stack, Redis, Docker, Tailwind CSS, Google Cloud Vision</td>
-    </tr>
-    <tr>
-      <th>Key Highlights</th>
-      <td>
-        • <strong>OCR Identity Verification:</strong> Integrated <strong>Google Cloud Vision</strong> to auto-extract text from ID cards.<br>
-        • <strong>Proactive Security:</strong> Architected a <strong>Watchlist Trigger</strong> that creates instant alerts for police upon suspect check-in.<br>
-        • <strong>Robust Security:</strong> Implemented <strong>RBAC</strong> (Role-Based Access Control) and Redis-based token blacklisting.<br>
-        • <strong>FinTech Integration:</strong> Full subscription billing system using <strong>Stripe</strong> Webhooks.<br>
-        • <strong>Cloud Infrastructure:</strong> Utilized <strong>Cloudinary</strong> for secure, optimized storage of sensitive images.
-      </td>
-    </tr>
-     <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/uttkarshnjr10/ApnaManager">
-          <img src="https://img.shields.io/badge/Backend_Repo-000000?style=for-the-badge&logo=github&logoColor=white" alt="Backend Code"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/uttkarshnjr10/Guest-Guard">
-          <img src="https://img.shields.io/badge/Client_Repo-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Code"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/uttkarshnjr10/ApnaManager">
+    <img src="https://img.shields.io/badge/View_Backend-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/uttkarshnjr10/Guest-Guard">
+    <img src="https://img.shields.io/badge/View_Frontend-38B2AC?style=flat-square&logo=react&logoColor=white" />
+  </a>
 </div>
+
+<br>
+
+* **OCR Identity Verification:** Integrated **Google Cloud Vision** to auto-extract text from ID cards.
+* **Real-time Triggers:** Architected a **Watchlist Trigger** that alerts police instantly upon suspect check-in.
+* **Performance:** Implemented **Redis** for token blacklisting and caching frequently accessed data.
+* **Infrastructure:** Containerized with Docker and stored sensitive assets on Cloudinary.
 
 ---
 
-### 💻 Other Builds
+### 💻 Engineering Labs
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌍 Nomad</h3>
-      <p align="center"><strong>Social Media Microservices</strong></p>
-      <p>A scalable platform exploring distributed system architecture.</p>
-      <p>
-        • <strong>Microservices:</strong> Decoupled services for Auth and Content.<br>
-        • <strong>Security:</strong> Spring Boot Auth Service with JWT.<br>
-        • <strong>Backend:</strong> Node.js & Express content handling.
-      </p>
-      <div align="center">
-        <a href="https://github.com/uttkarshnjr10/nomad-backend">
-          <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" alt="Link"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📹 Peer2Peer</h3>
-      <p align="center"><strong>Real-Time Video Chat</strong></p>
-      <p>A deep dive into WebRTC protocols and socket management.</p>
-      <p>
-        • <strong>Real-Time:</strong> 1:1 Video & Audio calling via <strong>WebRTC</strong>.<br>
-        • <strong>Signaling:</strong> Custom signaling server using <strong>Socket.io</strong>.<br>
-        • <strong>UI:</strong> React-based interactive frontend.
-      </p>
-       <div align="center">
-        <a href="https://github.com/uttkarshnjr10">
-          <img src="https://img.shields.io/badge/View_Profile-black?style=flat-square&logo=github" alt="Link"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+#### 📹 Peer2Peer (Video Chat)
+> *Deep dive into WebRTC and Socket Management.*
+* **Core:** 1:1 Real-time Video & Audio calling via **WebRTC**.
+* **Signaling:** Custom signaling server built with **Socket.io** to handshake connections.
+* **Architecture:** Mesh networking topology for direct peer connection.
 
-<br/>
-
-### 🤝 Open Source Contributions
-
-**BaatCheet**
-<br>
-*Contributed to a community-driven chat application.*
-* **My Role:** Refactored core legacy components for better performance and implemented the **Password Reset** functionality using secure email tokens.
-<br>
-<a href="https://github.com/uttkarshnjr10/chatApp">
-  <img src="https://img.shields.io/badge/View_Contribution-238636?style=flat-square&logo=github&logoColor=white" alt="Contribution"/>
-</a>
+#### 🌍 Nomad (Microservices)
+> *Distributed system architecture experiment.*
+* **Architecture:** Decoupled services for Authentication and Content management.
+* **Scalability:** Designed to handle independent scaling of auth vs content services.
+* **Tech:** Node.js, Express, and JWT for stateless authentication.
 
 ---
 
